@@ -35,25 +35,25 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "---",
-    location: "---",
-    description: "---",
+    title: "schooling",
+    location: "basti UP india",
+    description: "i studied PCM in 12th with computer",
     icon: React.createElement(LuGraduationCap),
-    date: "---",
+    date: "graduate 2022",
   },
   {
-    title: "----",
-    location: "----",
-    description: "---",
+    title: "college",
+    location: "Lucknow UP india",
+    description: "i did my graduation degree in BCA",
     icon: React.createElement(CgWorkAlt),
-    date: "----",
+    date: "graduate 2026",
   },
   {
-    title: "---",
-    location: "---",
-    description: "---",
+    title: "projects",
+    location: "lucknow",
+    description: "with my studies i did side projects",
     icon: React.createElement(FaReact),
-    date: "---",
+    date: "- present",
   },
 ] as const;
 
@@ -66,17 +66,17 @@ export const projectsData = [
     imageUrl: portfolioImg,
   },
   {
-    title: "---",
+    title: "clothing store database",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
+      "i made a database for a clothing store using SQL and java.",
+    tags: ["java","MYSQL"],
     imageUrl: rmtdevImg,
   },
   {
-    title: "Word Analytics",
+    title: "online book store ",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+      "A web app for purchasing books",
+    tags: ["java" , "MYSQL", "HTML", "CSS"],
     imageUrl: wordanalyticsImg,
   },
 ] as const;
