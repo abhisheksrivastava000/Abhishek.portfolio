@@ -43,7 +43,7 @@ To run this project locally, follow these steps:
 
     bash
 
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/000-ghost-000/portfolio-website.git
 cd portfolio-website
 
 Install the dependencies:
