@@ -70,7 +70,7 @@ To explore the website:
 
 Folder Structure
 
-graphql
+```graphql
 
 ├── public # Static assets like images and favicon
 ├── src # Source code for the website
@@ -80,3 +80,4 @@ graphql
 │ ├── styles # Global CSS and Tailwind configuration
 │ └── lib # Custom hooks and utility functions
 └── README.md # Documentation
+```
