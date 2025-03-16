@@ -51,9 +51,7 @@ export default function Intro() {
               delay: 0.1,
               duration: 0.7,
             }}
-          >
-            
-          </motion.span>
+          ></motion.span>
         </div>
       </div>
 
@@ -88,7 +86,6 @@ export default function Intro() {
           Contact me here{" "}
           <BsArrowRight className="opacity-70 group-hover:translate-x-1 transition" />
         </Link>
-
 
         <a
           className="bg-white p-4 text-gray-700 hover:text-gray-950 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
