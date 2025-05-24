@@ -44,6 +44,7 @@ export default function Contact() {
           frameBorder="0"
           title="Contact Form"
           className="rounded-lg borderBlack"
+          data-tally-transparent="1"
         ></iframe>
       </div>
     </motion.section>

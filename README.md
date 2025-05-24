@@ -3,8 +3,8 @@ Abhishek Srivastava | Portfolio Website
 
 Welcome to my personal portfolio website! This project showcases my journey as a software developer, highlighting my skills, projects, and experience in the field of full-stack development.
 Live Demo
-here's a notion web page that conntains the portfolio
-https://abhisheksrivastava.notion.site/Abhishek-Srivastava-10a7927502b680dfb0d1c38c9413807d
+here's a web page that conntains the portfolio
+https://abhisheksrivastava-psi.vercel.app
 Table of Contents
 
     About the Project

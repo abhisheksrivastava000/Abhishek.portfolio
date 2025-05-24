@@ -19,8 +19,8 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        I am a dedicated software developer and tester with a strong focus on
-        web and Android development. Proficient in languages like Java, Python,
+        I am a dedicated software developer who is smart and funny with a strong focus on
+        backend and AI&ML. Proficient in languages like Java, Python,
         and Node.js, along with a foundational understanding of C and C++, I
         thrive in the IT sector, working on applications and software solutions.
         My passion for solving complex problems and being creative in my
