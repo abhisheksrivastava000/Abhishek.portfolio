@@ -19,27 +19,19 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        I am a dedicated software developer who is smart and funny with a strong focus on
-        backend and AI&ML. Proficient in languages like Java, Python,
-        and Node.js, along with a foundational understanding of C and C++, I
-        thrive in the IT sector, working on applications and software solutions.
-        My passion for solving complex problems and being creative in my
-        approach drives my commitment to testing and continuous learning. I
-        approach each challenge by fully understanding its scope and
-        intricacies, ensuring that I deliver thoughtful, high-quality solutions.
-        My current career aspirations include advancing as a software developer,
-        tester, or consultant, with a particular focus on software quality,
-        security, and integrity. While I am confident in working independently,
-        I also excel in team environments, coordinating effectively to achieve
-        common goals. To stay at the forefront of industry trends, I actively
-        engage with new technologies and leverage social media as a valuable
-        tool for learning and growth.
+        I am a versatile hybrid of a tech-head and a business strategist—holding both a <span className="font-medium">BCA</span> and an <span className="font-medium">MBA in Business Analytics</span>. 
+        That means I can build a complex database system in SQL/Python, and then present a slide deck explaining its ROI without breaking a sweat (or putting you to sleep).
+        Proficient in languages like <span className="font-medium">Java, Python, and Node.js</span>, along with a foundational understanding of C and C++, I thrive at the intersection of technical architecture and high-level project management.
+      </p>
+
+      <p className="mb-3">
+        I approach each challenge by fully understanding its scope and intricacies, ensuring that I deliver thoughtful, high-quality, and secure solutions.
+        I am equally comfortable writing robust code independently, leading cross-functional teams, or consulting on software quality and operations.
+        To stay at the forefront of the industry, I actively engage with emerging technologies, AI development, and the latest trends.
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy reading
-        books, watching movies, web series. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>
+        <span className="italic">When I'm not coding or analyzing business data</span>, I enjoy reading books, watching movies & web series, devouring manga, and playing chess.
       </p>
     </motion.section>
   );

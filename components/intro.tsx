@@ -61,10 +61,9 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-bold">Hello, I'm Abhishek Srivastava.</span> I'm a{" "}
-        <span className="font-bold">Software developer</span> with{" "}
-        <span className="font-bold">passion for books</span>. I enjoy building{" "}
-        <span className="italic">sites & apps</span>. My focus is to{" "}
-        <span className="underline">Create and Learn</span>.
+        <span className="font-bold">Software Developer & Business Analyst</span>. I bridge the gap between{" "}
+        <span className="italic">technical code</span> & <span className="italic">business strategies</span>. My focus is to{" "}
+        <span className="underline">Solve, Build, and Scale</span>.
       </motion.h1>
 
       <motion.div
