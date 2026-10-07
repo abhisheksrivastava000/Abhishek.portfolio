@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="/abhi.jpg" // This points to the public directory
+              src="/abhi.jpeg" // This points to the public directory
               alt="Abhishek portrait"
               width="192"
               height="192"
